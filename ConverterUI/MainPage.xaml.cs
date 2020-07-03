@@ -25,6 +25,6 @@ namespace ConverterUI
         public MainPage()
         {
             this.InitializeComponent();
-        }
+        } 
     }
 }
